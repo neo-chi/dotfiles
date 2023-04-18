@@ -1,0 +1,24 @@
+= README
+Reece Chimento <reecechimento@gmail.com>
+1.0, 2023-04-18: Initial draft
+:toc:
+:imagesdir: img/
+:icons: font
+:data-uri:
+:sectids:
+:experimental:
+:url-repo: https://github.com/reecechimento/dotfiles
+
+== Tools
+
+.CLI Tools
+* nvim
+* ripgrep
+* fzf
+* ranger
+* tmux
+* tmuxinator
+
+[TIP]
+Do this, not that
+
